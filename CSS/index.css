@@ -13,3 +13,17 @@
 .imagen2{
     width: 250px;
 }
+@font-face {
+    font-family: Halo;
+    src: url(CSS/Halo.ttf);
+}
+h1{
+    font-family: Halo;
+}
+p1{
+    font-family: Halo;
+}
+
+.item{
+    justify-content: center;
+}
