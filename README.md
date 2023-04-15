@@ -7,3 +7,5 @@
 - Alex Fernando Dieguez Guillén, 1535823
 - Sebastian Josue Siquina Tazun, 1525823
 - Arthur Hirokatsu Yoshioka Colop, 1548222
+- Juan José Luarca Rodríguez, 1512623
+- Allan Francisco Moisés Chaclán, 1502023
