@@ -2,6 +2,11 @@
     text-align: right;
     margin: -150px  180px 0px 50px;
 }
+
+body{
+    background-color: lightblue;
+}
+
 .imagen{
 
     width: 250px;
@@ -17,10 +22,14 @@
     font-family: Halo;
     src: url(CSS/Halo.ttf);
 }
-h1{
+h2{
     font-family: Halo;
 }
 p1{
+    font-family: Halo;
+}
+
+footer{
     font-family: Halo;
 }
 
