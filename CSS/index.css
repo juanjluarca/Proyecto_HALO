@@ -1,23 +1,20 @@
 .contenedor{
     text-align: right;
-    margin: 50px 180px 0px 50px;
+    margin: -150px  180px 0px 50px;
 }
-
 body{
     background-size: cover;
-    background-image: url(fond.jpg);
+    background-image: url(fondo\ halo\ cheat.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
 }
-
 .imagen{
-
     width: 250px;
 }
 .contenedor2{
-    text-align: center;
-    margin: 50px 180px 0px 50px;
+    text-align: right;
+    margin: -150px 180px 0px 50px;
 }
 .imagen2{
     width: 250px;
@@ -26,20 +23,22 @@ body{
     font-family: Halo;
     src: url(CSS/Halo.ttf);
 }
-h2{
+
+
+body{
     font-family: Halo;
-}
-p1{
-    font-family: Halo;
+    color: paleturquoise;
 }
 
-footer{
-    font-family: Halo;
-}
 
-.item{
-    justify-content: center;
-}
-html{
-    scroll-behavior: smooth;
-}
+.contenedor_{
+    display: flex;
+    align-items: center;
+  }
+  
+.imagen_{
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 400px;
+    height: 250px;
+  }
