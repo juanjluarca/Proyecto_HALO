@@ -3,7 +3,11 @@
     margin: -150px  180px 0px 50px;
 }
 body{
-    background-color: #5B6F5F;
+    background-size: cover;
+    background-image: url(fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
 }
 .imagen{
     width: 250px;
