@@ -4,7 +4,7 @@
 }
 body{
     background-size: cover;
-    background-image: url(fondo.jpg);
+    background-image: url(fondo\ halo\ cheat.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -23,18 +23,13 @@ body{
     font-family: Halo;
     src: url(CSS/Halo.ttf);
 }
-h2{
+
+
+body{
     font-family: Halo;
+    color: paleturquoise;
 }
-p1{
-    font-family: Halo;
-}
-footer{
-    font-family: Halo;
-}
-.item{
-    justify-content: center;
-}
+
 
 .contenedor_{
     display: flex;
