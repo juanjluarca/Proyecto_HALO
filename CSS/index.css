@@ -1,11 +1,11 @@
 .contenedor{
     text-align: right;
-    margin: -150px  180px 0px 50px;
+    margin: 50px 180px 0px 50px;
 }
 
 body{
     background-size: cover;
-    background-image: url(fondo.jpg);
+    background-image: url(fond.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -16,8 +16,8 @@ body{
     width: 250px;
 }
 .contenedor2{
-    text-align: right;
-    margin: -150px 180px 0px 50px;
+    text-align: center;
+    margin: 50px 180px 0px 50px;
 }
 .imagen2{
     width: 250px;
@@ -39,4 +39,7 @@ footer{
 
 .item{
     justify-content: center;
+}
+html{
+    scroll-behavior: smooth;
 }
