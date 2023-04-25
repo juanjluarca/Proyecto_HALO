@@ -2,13 +2,10 @@
     text-align: right;
     margin: -150px  180px 0px 50px;
 }
-
 body{
     background-color: #5B6F5F;
 }
-
 .imagen{
-
     width: 250px;
 }
 .contenedor2{
@@ -28,11 +25,21 @@ h2{
 p1{
     font-family: Halo;
 }
-
 footer{
     font-family: Halo;
 }
-
 .item{
     justify-content: center;
 }
+
+.contenedor_{
+    display: flex;
+    align-items: center;
+  }
+  
+.imagen_{
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 400px;
+    height: 250px;
+  }
